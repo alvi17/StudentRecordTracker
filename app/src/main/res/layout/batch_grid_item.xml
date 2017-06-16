@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/batch_buttons_back"
+    android:paddingTop="0dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:drawableTop="@drawable/ic_supervisor_account_black_24dp"
+    android:text="Batch Name"
+    android:textAllCaps="false"
+    android:textColor="@color/button_text_color"
+    android:textSize="@dimen/button_text_size"
+    android:id="@+id/batch_button"
+    >
+
+
+
+</Button>

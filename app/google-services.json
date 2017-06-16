@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "430712972590",
+    "firebase_url": "https://studentrecordtracker.firebaseio.com",
+    "project_id": "studentrecordtracker",
+    "storage_bucket": "studentrecordtracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430712972590:android:a67de483a7cd7f8b",
+        "android_client_info": {
+          "package_name": "alvi17.studentrecordtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430712972590-ajr5majh822qs5r1idl2s97v3ru2dvfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alvi17.studentrecordtracker",
+            "certificate_hash": "829f77165150bdb3d0ef561887be1d547602a511"
+          }
+        },
+        {
+          "client_id": "430712972590-fi102n2fq8738vb2nem30977cph7oiju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-oBiX9NkLl6p1HKtnnFiWX6QVVQD0U8Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430712972590-fi102n2fq8738vb2nem30977cph7oiju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
